@@ -17,7 +17,7 @@
                 This is BWAStore Administrator Panel
             </p>
         </div>
-        <div class="dashboard-content">
+        <div class="dashboard-content col-md-10">
             <div class="row">
                 <div class="col-md-4">
                     <div class="card mb-2">

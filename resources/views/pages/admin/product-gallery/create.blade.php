@@ -19,7 +19,7 @@
     </div>
     <div class="dashboard-content">
       <div class="row">
-        <div class="col-12">
+        <div class="col-10">
           @if ($errors->any())
               <div class="alert alert-danger">
                   <ul>

@@ -19,7 +19,7 @@
         </div>
         <div class="dashboard-content">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-10">
                     <div class="card">
                         <div class="card-body">
                             <a href="{{  route('product.create') }}" class="btn btn-primary mb-3">
